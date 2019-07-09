@@ -1,0 +1,14 @@
+{
+   "name": "CAMTD_Project1",
+   "description": "Description for CAMTD_Project1.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "CAMTD_Project1",
+     "bullets": []
+   }
+ }
